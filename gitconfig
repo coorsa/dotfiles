@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = coors.niklas@gmail.com
+	name = Niklas Coors
